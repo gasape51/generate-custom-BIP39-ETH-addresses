@@ -1,6 +1,6 @@
 # generate-custom-BIP39-ETH-addresses
 
-Ce script Python génère des portefeuilles Ethereum (adresse, clé privée et phrase mnémonique) et filtre les adresses en fonction de critères spécifiques. Il utilise la bibliothèque `eth_account` pour créer des portefeuilles Ethereum.
+Ce script Python génère des wallets Ethereum (Private Key, Public Key, Mnemonic) et filtre les adresses en fonction de critères spécifiques. Il utilise la bibliothèque `eth_account` pour créer des portefeuilles Ethereum. Ces wallets personnalisés s'appellent également vanity address
 
 ## Installation
 
