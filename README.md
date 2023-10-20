@@ -11,10 +11,10 @@ pip install eth-account
 ```
 ## Utilisation
 
-Clonez ce référentiel sur votre ordinateur :
+Clonez ce repo votre ordinateur :
 
 ```bash
-git clone https://github.com/votre_nom_utilisateur/votre_projet.git
+git clone https://github.com/gasape51/generate-custom-BIP39-ETH-addresses.git
 ```
 Exécutez le script Python :
 
