@@ -9,7 +9,7 @@ Pour exécuter ce script, assurez-vous d'avoir Python installé sur votre systè
 ```bash
 pip install eth-account
 ```
-Utilisation
+## Utilisation
 
     Clonez ce référentiel sur votre ordinateur :
 
