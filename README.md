@@ -23,6 +23,6 @@ Exécutez le script Python :
 python generate_wallets.py
 ```
 
-Le script générera des portefeuilles Ethereum et affichera les détails des portefeuilles qui correspondent aux mots clés personnalisés dans la liste valid_words. Vous pouvez personnaliser la liste valid_words en ajoutant ou supprimant des mots-clés selon vos préférences.
+Le script générera des portefeuilles Ethereum et affichera les détails des wallets (Private Key, Public Key, Mnemonic) qui correspondent aux mots clés personnalisés dans la liste valid_words. Vous pouvez personnaliser la liste valid_words en ajoutant ou supprimant des mots-clés selon vos préférences.
 
 Note : Le nombre de threads à exécuter est défini dans la variable num_threads. Vous pouvez ajuster ce nombre en fonction des capacités de votre ordinateur.
