@@ -11,12 +11,12 @@ pip install eth-account
 ```
 ## Utilisation
 
-    Clonez ce référentiel sur votre ordinateur :
+Clonez ce référentiel sur votre ordinateur :
 
 ```bash
 git clone https://github.com/votre_nom_utilisateur/votre_projet.git
 ```
-    Exécutez le script Python :
+Exécutez le script Python :
 
 
 ```bash
