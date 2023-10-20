@@ -8,20 +8,20 @@ Pour exécuter ce script, assurez-vous d'avoir Python installé sur votre systè
 
 ```bash
 pip install eth-account
-
+```
 Utilisation
 
     Clonez ce référentiel sur votre ordinateur :
 
-bash
-
+```bash
 git clone https://github.com/votre_nom_utilisateur/votre_projet.git
-
+```
     Exécutez le script Python :
 
-bash
 
+```bash
 python generate_wallets.py
+```
 
 Le script générera des portefeuilles Ethereum et affichera les détails des portefeuilles qui correspondent aux mots clés personnalisés dans la liste valid_words. Vous pouvez personnaliser la liste valid_words en ajoutant ou supprimant des mots-clés selon vos préférences.
 
